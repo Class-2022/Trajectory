@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyTrajectoryGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\MyTrajectoryGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyMainCharacter.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGame.init.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameCharacter.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameGameMode.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGamePlayerController.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameProjectile.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyMainCharacter.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGame.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameCharacter.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameGameMode.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGamePlayerController.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\MyTrajectoryGameProjectile.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\TP_PickUpComponent.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\TP_WeaponComponent.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\Default.rc2.res"
+/OUT:"C:\Users\black\Documents\Unreal Projects\MyTrajectoryGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTrajectoryGame\UnrealEditor-MyTrajectoryGame.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyTrajectoryGame",
+			"Path": "..\\Source\\MyTrajectoryGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyTrajectoryGameEditor",
+			"Path": "..\\Source\\MyTrajectoryGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

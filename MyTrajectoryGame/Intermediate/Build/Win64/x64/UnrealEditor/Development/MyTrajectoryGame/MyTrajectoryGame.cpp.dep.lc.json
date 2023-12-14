@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\black\\documents\\unreal projects\\mytrajectorygame\\source\\mytrajectorygame\\mytrajectorygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\black\\documents\\unreal projects\\mytrajectorygame\\intermediate\\build\\win64\\x64\\mytrajectorygameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\black\\documents\\unreal projects\\mytrajectorygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mytrajectorygame\\definitions.mytrajectorygame.h",
+            "c:\\users\\black\\documents\\unreal projects\\mytrajectorygame\\source\\mytrajectorygame\\mytrajectorygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

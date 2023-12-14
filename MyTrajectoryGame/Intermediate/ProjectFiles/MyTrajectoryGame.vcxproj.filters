@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyTrajectoryGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyTrajectoryGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyTrajectoryGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyTrajectoryGame">
+      <UniqueIdentifier>{7281D99E-108C-3D05-84B6-A609BC9501DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyMainCharacter.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyMainCharacter.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyPlayerController.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyPlayerController.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGame.Build.cs">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGame.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGame.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameCharacter.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameCharacter.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameGameMode.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameGameMode.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGamePlayerController.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGamePlayerController.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameProjectile.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\MyTrajectoryGameProjectile.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\TP_PickUpComponent.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\TP_PickUpComponent.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTrajectoryGame\TP_WeaponComponent.cpp">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTrajectoryGame\TP_WeaponComponent.h">
+      <Filter>Source\MyTrajectoryGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

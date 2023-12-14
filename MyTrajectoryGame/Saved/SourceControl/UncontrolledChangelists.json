@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/black/Documents/Unreal Projects/MyTrajectoryGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyTrajectoryGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/YQ/248738SEGHCBND3Z0Y2N3I.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyTrajectoryGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
